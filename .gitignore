@@ -1,0 +1,16 @@
+# Ignore build files
+bin/
+obj/
+*.user
+*.suo
+
+# Ignore IDE settings
+.vs/
+*.vscode
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore NuGet packages
+packages/
