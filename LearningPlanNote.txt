@@ -1,0 +1,24 @@
+
+### **Basic Programming Language Concepts in C#**  
+According to C# Language Reference
+------------------------------------------------------
+1. Types
+2. Keywords
+3. Operator and Expressions
+4. Statements
+5. Special Characters
+6. Attribute read by the compiler
+------------------------------------------------------
+
+current 
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/numeric-conversions
+
+////
+C# Documentation:
+    General guide with tutorials, examples, and API references for using C#.
+
+C# Language Reference: 
+    Detailed explanation of C# syntax, keywords, and constructs.
+
+C# Language Specification: 
+    Formal document defining the exact rules and behavior of C#.

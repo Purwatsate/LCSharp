@@ -1,24 +1,7 @@
-﻿using System;
-
-namespace MyNamespace
-{
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Point a = new()
-            {
-                X = 10,
-                Y = 20
-            };
-            a.X = 111;
-            Console.WriteLine($"a.X = {a.X}, a.Y = {a.Y}");
-        }
-    }
-
-
-    class  Testing {
-        readonly int a;
-    }
-}
+﻿using static System.Console;
+double a = 12.3;
+System.Double b = 12.3;
+float c = 123;
+WriteLine(a.GetType());
+WriteLine(b.GetType());
+WriteLine(c.GetType());
