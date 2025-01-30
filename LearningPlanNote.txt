@@ -15,9 +15,16 @@ current
 ////
 C# Documentation:
     General guide with tutorials, examples, and API references for using C#.
-
+/==============================================================================
 C# Language Reference: 
     Detailed explanation of C# syntax, keywords, and constructs.
-
+/==============================================================================
 C# Language Specification: 
     Formal document defining the exact rules and behavior of C#.
+/==============================================================================
+.NET fundamentals documentation
+    Learn the fundamentals of .NET, an open-source developer platform for building 
+    many different types of applications.
+    
+link - https://learn.microsoft.com/en-us/dotnet/fundamentals/
+/==============================================================================
