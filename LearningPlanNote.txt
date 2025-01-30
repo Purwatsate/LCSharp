@@ -11,7 +11,7 @@ According to C# Language Reference
 ------------------------------------------------------
 
 current 
-
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct
 ////
 C# Documentation:
     General guide with tutorials, examples, and API references for using C#.
