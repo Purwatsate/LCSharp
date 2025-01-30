@@ -1,7 +1,9 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     public static void Main()
     {
-       StructureTypes.MainExample();
+        Console.WriteLine(Environment.Version);
     }
 }
