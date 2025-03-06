@@ -11,7 +11,7 @@ class User
     public string Name { get; set; }
 }
 
-class Program
+class ProgramA
 {
     static void Main()
     {

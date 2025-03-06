@@ -11,7 +11,7 @@ class StructureTypes
         point.Display();
 
         //-------------readonly struct----------------
-        ReadOnlyPoint readOnlyPoint = new ReadOnlyPoint { X = 10, Y = 20 };  //because of init
+        ReadOnlyPoint readOnlyPoint = new() { X = 10, Y = 20 };  //because of init
         ParseReadOnlyStructure(readOnlyPoint);
 
         // Nondestructive mutation
